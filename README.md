@@ -47,6 +47,6 @@
  
 ### 🧾 Most used languages
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zewo2&layout=normal&langs_count=8&theme=radical )](https://github.com/zewo2)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zewo2&layout=compact&langs_count=8&theme=radical )](https://github.com/zewo2)
 
 ---
