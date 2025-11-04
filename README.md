@@ -1,4 +1,4 @@
-### Hi there! 👋 I'm Aníbal
+## Hello! 👋 I'm Aníbal
 
 ### 👨‍💻 About Me
 
@@ -36,17 +36,19 @@
 
 ---
 
+### 🏆 Featured Projects
+
+[![Repo 1](https://github-readme-stats.vercel.app/api/pin/?username=zewo2&repo=MSF_Movies-PWS&theme=radical )](https://github.com/zewo2/MSF_Movies-PWS)
+[![Repo 2](https://github-readme-stats.vercel.app/api/pin/?username=zewo2&repo=BuildIT-PWAFE&theme=radical )](https://github.com/zewo2/BuildIT-PWAFE)
+
+---
+
 ### 📊 My GitHub Stats
 
 [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=zewo2&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-
-### 🏆 Featured Projects
-
-[![Repo 1](https://github-readme-stats.vercel.app/api/pin/?username=zewo2&repo=MSF_Movies-PWS&theme=jolly )](https://github.com/zewo2/MSF_Movies-PWS)
-[![Repo 2](https://github-readme-stats.vercel.app/api/pin/?username=zewo2&repo=BuildIT-PWAFE&theme=jolly )](https://github.com/zewo2/BuildIT-PWAFE)
  
 ### 🧾 My most used languages
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zewo2&layout=compact&langs_count=8&theme=radical )](https://github.com/zewo2)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zewo2&layout=pie&langs_count=8&theme=radical )](https://github.com/zewo2)
 
 ---
