@@ -10,13 +10,19 @@
 
 ---
 
-## 🚀 Coding Languages and Technologies
+### 🏆 Featured Projects
 
-### 🖥️ Back-End + Frameworks
+[![Repo 1](https://github-readme-stats.vercel.app/api/pin/?username=zewo2&repo=MSF_Movies-PWS&theme=radical )](https://github.com/zewo2/MSF_Movies-PWS)
+[![Repo 2](https://github-readme-stats.vercel.app/api/pin/?username=zewo2&repo=BuildIT-PWAFE&theme=radical )](https://github.com/zewo2/BuildIT-PWAFE)
+
+---
+
+## 🚀 Tech Stack
+
+### 🖥️ Back-End
 ![Laravel](https://img.shields.io/badge/-Laravel-FF2D20?style=flat&logo=laravel&logoColor=white)
 ![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat&logo=php&logoColor=white)
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/-Express.js-000000?style=flat&logo=express&logoColor=white)
 
 ### 🎨 Front-End
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)
@@ -27,7 +33,6 @@
 ### 💻  Languages
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 ![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat&logo=php&logoColor=white)
-![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat&logo=mysql&logoColor=white)
 
 ### 🗄️ Databases
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
@@ -36,19 +41,12 @@
 
 ---
 
-### 🏆 Featured Projects
-
-[![Repo 1](https://github-readme-stats.vercel.app/api/pin/?username=zewo2&repo=MSF_Movies-PWS&theme=radical )](https://github.com/zewo2/MSF_Movies-PWS)
-[![Repo 2](https://github-readme-stats.vercel.app/api/pin/?username=zewo2&repo=BuildIT-PWAFE&theme=radical )](https://github.com/zewo2/BuildIT-PWAFE)
-
----
-
 ### 📊 My GitHub Stats
 
 [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=zewo2&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
  
-### 🧾 My most used languages
+### 🧾 Most used languages
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zewo2&layout=pie&langs_count=8&theme=radical )](https://github.com/zewo2)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zewo2&layout=normal&langs_count=8&theme=radical )](https://github.com/zewo2)
 
 ---
