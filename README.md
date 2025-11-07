@@ -43,10 +43,10 @@
 
 ### 📊 My GitHub Stats
 
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=zewo2&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=zewo2&show_icons=true&include_all_commits=true&theme=radical)]
  
 ### 🧾 Most used languages
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zewo2&layout=compact&langs_count=8&theme=radical )](https://github.com/zewo2)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zewo2&layout=compact&langs_count=8&theme=radical )]
 
 ---
