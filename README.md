@@ -12,8 +12,8 @@
 
 ### 🏆 Featured Projects
 
-[![Repo 1](https://github-readme-stats.vercel.app/api/pin/?username=zewo2&repo=MSF_Movies-PWS&theme=radical )](https://github.com/zewo2/MSF_Movies-PWS)
-[![Repo 2](https://github-readme-stats.vercel.app/api/pin/?username=zewo2&repo=BuildIT-PWAFE&theme=radical )](https://github.com/zewo2/BuildIT-PWAFE)
+[![MSF_Movies-PWS](https://github-readme-stats.vercel.app/api/pin/?username=zewo2&repo=MSF_Movies-PWS&theme=radical&v=20251109T145224)](https://github.com/zewo2/MSF_Movies-PWS)
+[![BuildIT-PWAFE](https://github-readme-stats.vercel.app/api/pin/?username=zewo2&repo=BuildIT-PWAFE&theme=radical&v=20251109T145224)](https://github.com/zewo2/BuildIT-PWAFE)
 
 ---
 
@@ -43,7 +43,7 @@
 
 ### 📊 My GitHub Stats
 
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=zewo2&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=zewo2&show_icons=true&theme=radical&v=20251109T145224)](https://github.com/anuraghazra/github-readme-stats)
  
 ### 🧾 Most used languages
 
