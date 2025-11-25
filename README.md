@@ -12,8 +12,8 @@
 
 ### 🏆 Featured Projects
 
-[![MSF_Movies-PWS](https://github-readme-stats.vercel.app/api/pin/?username=zewo2&repo=MSF_Movies-PWS&theme=dark)](https://github.com/zewo2/MSF_Movies-PWS)
-[![BuildIT-PWAFE](https://github-readme-stats.vercel.app/api/pin/?username=zewo2&repo=BuildIT-PWAFE&theme=dark)](https://github.com/zewo2/BuildIT-PWAFE)
+[![MSF_Movies-PWS](https://github-readme-stats.vercel.app/api/pin/?username=zewo2&repo=MSF_Movies-PWS&theme=radical)](https://github.com/zewo2/MSF_Movies-PWS)
+[![BuildIT-PWAFE](https://github-readme-stats.vercel.app/api/pin/?username=zewo2&repo=BuildIT-PWAFE&theme=radical)](https://github.com/zewo2/BuildIT-PWAFE)
 
 ---
 
@@ -38,22 +38,22 @@
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
 
-## 🔗 ORMs / Data Layer
+### 🔗 ORMs / Data Layer
 ![Eloquent](https://img.shields.io/badge/Eloquent-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
 ![Mongoose](https://img.shields.io/badge/Mongoose-4CAF50?style=for-the-badge&logo=mongoose&logoColor=white)
 
-## 🧪 Tools
+### 🧪 Tools
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
 ---
 
 ### 📊 My GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=zewo2&show_icons=true&theme=dark)<br/>
-![Streak](https://nirzak-streak-stats.vercel.app/?user=zewo2&theme=dark&hide_border=false)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=zewo2&show_icons=true&theme=radical)<br/>
+![Streak](https://nirzak-streak-stats.vercel.app/?user=zewo2&theme=radical&hide_border=false)
  
 ### 🧾 Most used languages
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zewo2&layout=compact&langs_count=8&theme=dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zewo2&layout=compact&langs_count=8&theme=radical)
 
 ---
