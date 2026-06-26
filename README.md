@@ -32,8 +32,8 @@
 
 ### 💻  Languages
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![Lua](https://img.shields.io/badge/-Lua-000080?style=flat&logo=lua&logoColor=white)
 ![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat&logo=php&logoColor=white)
+![Lua](https://img.shields.io/badge/-Lua-000080?style=flat&logo=lua&logoColor=white)
 ![Typescript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat&logo=typescript&logoColor=black)
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=black)
 
